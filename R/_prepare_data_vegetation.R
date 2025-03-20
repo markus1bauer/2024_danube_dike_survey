@@ -8,8 +8,8 @@
 
 # Content #####################################################################
 # A Load data +++++++++++++++++++++++++++++++++++++
-## 1 Sites and sPlotOpen
-## 2 Species and sPlotOpen
+## 1 Sites
+## 2 Species
 ## 3 Traits
 ## 4 Temperature and precipitation
 ## 5 Check data frames
@@ -21,7 +21,7 @@
 ## 5 LCBD: Local contributions to beta diversity
 ## 6 Synchrony
 ## 7 PCAs: Principle component analyses
-## 8 sPlotOpen
+## 8 ESy: Calculate EUNIS habitat types
 ## 9 dbMEM: Distance-based Moran's eigenvector maps
 ## 10 TBI: Temporal beta diversity index
 ## 11 Finalization of data frames
