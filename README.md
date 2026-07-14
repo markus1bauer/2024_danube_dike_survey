@@ -64,6 +64,7 @@ __Dataset__
 
 This dataset is also linked to PANGAEA
 > Bauer M, Huber JK & Kollmann J (2026) Vegetation surveys on dike grasslands between Straubing and Vilshofen at the river Danube - Sites [dataset]. &ndash; *PANGAEA*. [https://doi.org/10.1594/PANGAEA.962775](https://doi.org/10.1594/PANGAEA.974754 )
+
 > Bauer M, Huber JK & Kollmann J (2026) Vegetation surveys on dike grasslands between Straubing and Vilshofen at the river Danube - Vegetation [dataset]. &ndash; *PANGAEA*. [https://doi.org/10.1594/PANGAEA.973510](https://doi.org/10.1594/PANGAEA.973510)
 
 Contact markus1.bauer@tum.de for any further information.  
