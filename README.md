@@ -63,7 +63,7 @@ __Dataset__
 > Bauer M, Huber JK, & Kollmann J (2024) Data and code for Bauer et al. (2024) J Veg Sci [Data set]. &ndash; *Zenodo*. [https://doi.org/10.5281/zenodo.6107806](https://doi.org/10.5281/zenodo.6107806)
 
 This dataset is also linked to PANGAEA
-> Bauer M, Huber JK & Kollmann J (2026) Vegetation surveys on dike grasslands between Straubing and Vilshofen at the river Danube &ndash; Sites [dataset]. &ndash; *PANGAEA*. [https://doi.org/10.1594/PANGAEA.962775](https://doi.org/10.1594/PANGAEA.974754 )
+> Bauer M, Huber JK & Kollmann J (2026) Vegetation surveys on dike grasslands between Straubing and Vilshofen at the river Danube &ndash; Sites [dataset]. &ndash; *PANGAEA*. [https://doi.org/10.1594/PANGAEA.974754](https://doi.org/10.1594/PANGAEA.974754)
 
 > Bauer M, Huber JK & Kollmann J (2026) Vegetation surveys on dike grasslands between Straubing and Vilshofen at the river Danube &ndash; Vegetation [dataset]. &ndash; *PANGAEA*. [https://doi.org/10.1594/PANGAEA.973510](https://doi.org/10.1594/PANGAEA.973510)
 
