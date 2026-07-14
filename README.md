@@ -58,7 +58,7 @@ __Publication__
 
 > Bauer M, Huber JK, & Kollmann J (2024) Beta diversity of restored dike grasslands is strongly influenced by uncontrolled spatio-temporal variability. &ndash; *Journal of Vegetation Science* 35, e13293. [https://doi.org/10.1111/jvs.13293](https://doi.org/10.1111/jvs.13293)
 
-__Dataset__
+__Data and code__
 
 > Bauer M, Huber JK, & Kollmann J (2024) Data and code for Bauer et al. (2024) J Veg Sci [Data set]. &ndash; *Zenodo*. [https://doi.org/10.5281/zenodo.6107806](https://doi.org/10.5281/zenodo.6107806)
 
